@@ -1,0 +1,3 @@
+Big O Asymptotic notation:
+
+The time complexity is O(n). The List methods used inside are append and clear which comes in complexity of O(1).
